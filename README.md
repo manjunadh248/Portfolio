@@ -70,4 +70,4 @@ Deployed on Netlify. Environment variables required:
 
 - Email: simanju2877@gmail.com
 - LinkedIn: https://www.linkedin.com/in/b-simanjunadha/
-- GitHub: https://github.com/manjunadh248
+- GitHub: https://github.com/manjunadh248# Portfolio
