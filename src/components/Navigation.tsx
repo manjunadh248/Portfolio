@@ -94,7 +94,7 @@ const Navigation: React.FC = () => {
           <div className="flex items-center space-x-3">
             <div className="w-8 h-8 rounded-full overflow-hidden">
               <img
-                src="/uploads/fd397f5f-a602-4776-b7d2-4077a1df25dc.png"
+                src="/uploads/profile.jpg"
                 alt="Pradeep"
                 className="w-full h-full object-cover object-top scale-110"
               />
